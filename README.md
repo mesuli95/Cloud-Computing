@@ -49,8 +49,18 @@
 
 # Measured Service
 
-* 
+* Metering of resources is monitored, controlled, and billable. CSPs meter the utilization of their resources.
+* This metering permits more efficient and dynamic resource allocation.
+* It also permits the CSPs to bill consumers accurately for exactly the quantity of resources consumed.
   
+</details>
+
+<details>
+<summary> Cloud Computing Ecosystems </summary>
+This ecosystem consists of three categories of players:
+
+# 
+
 
   
 </details>
