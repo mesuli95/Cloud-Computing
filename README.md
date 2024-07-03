@@ -73,7 +73,11 @@
 
 # Provider of Services
 
+* Amazon Web Services (AWS): AWS is a comprehensive cloud computing platform provided by Amazon.
+* It offers a wide array of services, including computing power, storage, databases, networking, analytics, machine learning, and more.
+* Google Cloud Platform (GCP): GCP is a suite of cloud computing services offered by Google.
 * 
+
 
 
   
