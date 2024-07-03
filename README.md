@@ -57,9 +57,9 @@
 
 <details>
 <summary> Cloud Computing Ecosystems </summary>
-This ecosystem consists of three categories of players:
 
-# 
+# This ecosystem consists of three categories of players:
+
 
 
   
