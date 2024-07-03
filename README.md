@@ -60,6 +60,20 @@
 
 # This ecosystem consists of three categories of players:
 
+# Consumers of Services
+
+* Microsoft OneDrive: OneDrive is a file hosting and synchronization service offered by Microsoft.
+* It enables users to store and share files and access them from any device, including PCs, Macs, and mobile devices.
+* Google Drive: Google Drive is a cloud storage and file backup service provided by Google.
+* It offers free storage space for personal use and allows users to store files, collaborate on documents, and share files with others.
+* iCloud: iCloud is a cloud storage and synchronization service provided by Apple.
+* It allows users to store their photos, videos, documents, and other files and access them across Apple devices.
+* Microsoft OneDrive: OneDrive is a file hosting and synchronization service offered by Microsoft.
+* It enables users to store and share files and access them from any device, including PCs, Macs, and mobile devices.
+
+# Provider of Services
+
+* 
 
 
   
