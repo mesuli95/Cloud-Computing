@@ -132,6 +132,59 @@
 
 # Cloud Components and Clients
 
+1. CSP data center - Hosts cloud services
+2. Client - Means of access to cloud services for consumer.
+3. Network - Path between cloud services and client devices
+
+* Leading cloud service providers (CSPs), like Microsoft and Amazon, operate a vast network of data centers worldwide.
+* These data centers are designed with redundancy, ensuring reliable power supply, internet connectivity, and physical security.
+*  It is within these data centers that cloud services are hosted, providing a range of functionalities.
+*  Cloud services cater to a wide range of consumers, encompassing individuals and businesses alike, on various platforms.
+* These services can include storage, email, e-commerce, office suites, and development environments, among others.
+* Users can access these services from a multitude of devices, such as phones, tablets, traditional computers, Internet of Things (IoT) devices, and servers.
+* The devices connecting to the cloud can be anything equipped with a network connection.
+* The primary operating systems used on these client devices include Microsoft Windows, Apple macOS, Linux, iOS, and Android.
+
+* The cloud service infrastructure can be managed internally by a single organization for its own use or managed by a CSP that provides services to many organizations.
+* These two models can be combined into a hybrid solution. 
+
+
+
+* Public cloud:  A CSP owns the cloud deployment and allocates its resources to external, unaffiliated customers. Those customers share the public cloud’s resources without knowing precisely where their data is in relation to that of any other organization.
+*  Private cloud:  Services are provided to only a single organization.
+* Hybrid cloud:  There is a combination of two or more private, public, or community deployments.
+
+# The Public Cloud
+
+* The public cloud is a set of hardware, networking, storage, services, applications, and interfaces owned and operated by a third party for use by other companies or individuals.
+* CSPs offer public cloud services to virtually any customer. Customers use a subscription model to pay for access.
+* These commercial providers or CSPs create a highly scalable data center that hides the details of the underlying infrastructure from the consumer, no customer has any real understanding of precisely where their resources or data may be at a given moment.
+* In the background, the CSP dynamically reallocates resources throughout the data center to support the current demand.
+* Public clouds are viable because they offer many options for computing, storage, and a rich set of other services.
+* With many resources always available, public cloud consumers can quickly select, optimize, and use those resources that match the needs of the applications they will run in the public cloud.
+* Most public cloud providers offer a wide variety of APIs and services, such as security, and specialized infrastructure to support specific workloads like Graphic Processor Units (GPUs) for data science, application development pipelines, and other technologies to support customer needs.
+* All of these cloud services are available in an on-demand manner.
+* Public cloud vendors are increasingly offering dedicated, non-multi-tenancy instances within their data center.
+
+# The Private Cloud
+
+* A private cloud is a set of hardware, networking, storage, services, applications, and interfaces owned and operated by an organization for the use of its employees, partners, or customers.
+* A private cloud can be created and managed by a third party for the exclusive use of one enterprise.
+* The organization retains complete control of the cloud deployment but can leverage the advantages of cloud technologies.
+* This is especially viable for very large enterprises. The private cloud is a highly controlled environment not open for public consumption.
+* Thus, a private cloud sits behind a firewall. The private cloud is highly automated with a focus on governance, security, and compliance.
+
+* Increasingly, public cloud vendors are packaging their cloud services into appliances that can be installed within a customer’s on-premises data center behind the firewall.
+* The appliance typically contains access to all of the cloud services that the cloud vendor offers on the public cloud.
+* The consumption models for these appliance based on premises public clouds can vary — the vendor may manage and own the appliance and bill the client in the same way that they bill public cloud use, or the customer may own and maintain the appliance.
+* This model of public cloud capabilities behind the firewall is quickly gaining traction.
+* 
+
+
+
+
+
+
 
   
 </details>
