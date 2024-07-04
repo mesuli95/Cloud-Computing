@@ -116,8 +116,21 @@
 
 # Cloud computing
 
-* 
+* Is a method of providing shared computing resources, including applications, computing, storage, networking, development, and deployment platforms as well as business processes.
+* Cloud computing makes computing resources easier to use by providing standardization and automation.
 
+# Standardization
+
+* Is the implementation of services using a consistent approach supported by a set of consistent interfaces.
+* Likewise, the cloud generally requires that processes be implemented through the use of automation.
+
+# Automation
+
+* Is a process that’s triggered based on business rules, resource availability, and security demands.
+*  Automation is required to support a self-service provisioning model. To promote efficiency, automation can ensure that after a provisioned service is no longer needed, it is returned to the resource pool.
+* This type of rules-based automation can help with capacity planning and overall workload management. 
+
+# Cloud Components and Clients
 
 
   
