@@ -178,7 +178,30 @@
 * The appliance typically contains access to all of the cloud services that the cloud vendor offers on the public cloud.
 * The consumption models for these appliance based on premises public clouds can vary — the vendor may manage and own the appliance and bill the client in the same way that they bill public cloud use, or the customer may own and maintain the appliance.
 * This model of public cloud capabilities behind the firewall is quickly gaining traction.
-* 
+
+  
+</details>
+
+<details>
+<summary> Cloud Architecture Considerations </summary>
+
+# Type of Constituents
+
+* Cloud consumers:  The individuals and groups within your business unit that use different types of cloud services to get a task accomplished. A cloud consumer could be a developer using computing services from a public cloud.
+* Direct customers:  Users who often take advantage of services that your business has created within a cloud environment. End users of your service have no idea that you are using a public or private cloud. As far as the users are concerned, they are interacting directly with your services and value.
+* Cloud service provider:  Commercial vendors or companies that create their own capabilities. Commercial vendors sell their services to cloud consumers. In contrast, a company might decide to become an internal cloud service provider to its own employees, partners, and customers — either as an internal service or as a profit center. These providers also create applications or services for these environments.
+
+* In contrast, if your organization is a cloud service provider, you will spend a lot more time architecting the elements.
+* You also need to understand how to build applications and business services that are optimized for this environment.
+* These service creators need to be concerned with consistency of the services that they are building so that they can support their customers — both short term and for the long run.
+
+# Planning for Deployment
+
+* The hybrid cloud is not a single architectural model; rather, it is a combination of a lot of different services that are located on different platforms.
+* Therefore, there is no simple way to define a hybrid architecture. Instead, from an architectural perspective, it is important to look at the relationship among the services that are used togethe
+
+
+
 
 
 
