@@ -198,7 +198,57 @@
 # Planning for Deployment
 
 * The hybrid cloud is not a single architectural model; rather, it is a combination of a lot of different services that are located on different platforms.
-* Therefore, there is no simple way to define a hybrid architecture. Instead, from an architectural perspective, it is important to look at the relationship among the services that are used togethe
+* Therefore, there is no simple way to define a hybrid architecture. Instead, from an architectural perspective, it is important to look at the relationship among the services that are used together
+
+* Cloud service providers might be a commercial company or a corporation that decides to become their own cloud service operator.
+* Cloud providers may provide the underlying physical and virtualized resources needed to run various cloud services.
+* They also may create the actual applications and business services that operate in these environments.
+
+* The cloud provider has to support all the important cloud models.
+
+# Latency and Performance
+
+* When planning your hybrid model, you need to consider the overall performance of your platform, which means that you must monitor and measure your entire environment.
+* Latency, or slow response or performance, is a constant concern for customers.
+* For example, say that a critical issue for your business is the speed at which customers’ orders are confirmed.
+* If you do not handle this issue efficiently, customers won’t be happy and may move to another supplier.
+* So, you may want to keep transaction management running within a private cloud or data center environment.
+* If you were to use a public cloud transaction management service, the latency involved in moving data between networks would cause service delays.
+* So, you may want to keep transaction management running within a private cloud or data center environment.
+* If you were to use a public cloud transaction management service, the latency involved in moving data between networks would cause service delays. 
+
+# Security: Planning in Context
+
+* When planning your hybrid environment, at the outset, you need to think about the security requirements for customers.
+* You need to understand these considerations before you begin your design. So, make sure your cloud providers can match your requirements.
+
+# Governance: Getting the right balance
+
+* Like security, governance requirements will determine how you plan and architect your hybrid cloud environment.
+* Many industries have rules of engagement that are considered best practices.
+* Like security, governance requirements will determine how you plan and architect your hybrid cloud environment.
+* Managing colocation: In the real world, compromise is a requirement for making computing perform well at an affordable price.
+* In a perfect world, cost would never be an issue, but in complicated environments, compromise is a reality.
+* The trick is to be able to manage across a hybrid environment that creates an architecturally balanced approach.
+* So, when planning your hybrid cloud environment, you need to first select applications that fit well into the benefits and limitations of the cloud.
+* Applications that do not match well for such a public cloud environment may need to stay on-premises, either on a traditional middleware deployment or in a private cloud environment.
+* When companies or cloud creators have carefully architected their applications or services, they will be well positioned to support a hybrid cloud environment.
+
+# Reliability in the Context of Change
+
+* Companies looking at cloud computing typically assume that it is an all-or-nothing model. However, cloud computing is simply part of an overall distributed architectural plan.
+* Within an architectural framework, determining business, performance, and customer goals is important, and to do so, you must consider all aspects of computing.
+
+# Supporting a Dynamic Life Cycle
+
+* The life cycle of cloud computing is different in many ways from the life cycle of a traditional computing environment.
+* The architecture of the cloud environment is predicated on the ability to abstract the details away from users based on a services-oriented architecture.
+* As a result of the cloud, you must think about the term life cycle in a new way.
+
+* Think about an overall services-based model that breaks down traditional disconnected silos of applications, processes, and services.
+* Think about creating an environment with fewer dependencies so that when you add new cloud services, you will have the flexibility to advance as the industry advances.
+* Think about the performance requirements that will give your customers excellent experiences.
+* Think about creating a predictable, safe, and well-governed environment that will support business operations in the long run.
 
 
 
