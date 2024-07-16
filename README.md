@@ -247,6 +247,7 @@
 
   
 </details>
+<details>
 <summary> Module 2 </summary>
 
 # Microsoft Azure
