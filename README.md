@@ -274,7 +274,8 @@
 11. OpEx vs. CapEx - Hosting to the cloud means an organization can save money from Capital Expenditures (CapEx) and only pay for Operational Expenditures (OpEx).
 12. Consumption-based pricing model - Azure gives its users the flexibility of cost management by offering consumption-based (Pay-As-You-Go) pricing model in most of its cloud services.
 13. No deep technical skills required - You and your organization do not need to be very skilled technically to get started using the cloud platform. Azure provides flexible and diverse options to give ease of use to its users.
-14. 
+
+# 
     
 
  
