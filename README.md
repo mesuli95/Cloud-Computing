@@ -1,7 +1,9 @@
 # Cloud-Computing
 
 <details>
-<summary> Introduction to cloud computing </summary>
+<summary> Module 1 </summary>
+
+# Introduction to cloud computing 
 
 * The impact of cloud computing on businesses across industries cannot be overstated.
 * It has revolutionized the way organizations operate, offering essential features like on-demand access to computing power and storage, virtually unlimited scalability, and flexible pricing models.
@@ -53,10 +55,8 @@
 * This metering permits more efficient and dynamic resource allocation.
 * It also permits the CSPs to bill consumers accurately for exactly the quantity of resources consumed.
   
-</details>
 
-<details>
-<summary> Cloud Computing Ecosystems </summary>
+# Cloud Computing Ecosystems 
 
 # This ecosystem consists of three categories of players:
 
@@ -109,10 +109,7 @@
 * DXC Technology: DXC Technology is an IT services company that provides cloud consulting and implementation services.
 * They assist organizations in designing cloud architectures, migrating applications to the cloud, and managing cloud environments.
 
-</details>
-
-<details>
-<summary> Understaing Cloud Concepts </summary>
+# Understaing Cloud Concepts 
 
 # Cloud computing
 
@@ -180,10 +177,7 @@
 * This model of public cloud capabilities behind the firewall is quickly gaining traction.
 
   
-</details>
-
-<details>
-<summary> Cloud Architecture Considerations </summary>
+# Cloud Architecture Considerations 
 
 # Type of Constituents
 
@@ -252,7 +246,15 @@
 
 
   
-</details><details>
+</details>
+<summary> Module 2 </summary>
+
+# Microsoft Azure
+
+* Microsoft’s computing platform is called Microsoft Azure, also known as Azure. The term Azure means sky blue color and is usually the typical color of “the cloud".
+* 
+
+ 
 
 
 
