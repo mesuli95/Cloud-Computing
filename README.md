@@ -253,7 +253,29 @@
 # Microsoft Azure
 
 * Microsoft’s computing platform is called Microsoft Azure, also known as Azure. The term Azure means sky blue color and is usually the typical color of “the cloud".
-* 
+* Azure is a public cloud provider, but they also offer private, hybrid, and multi-cloud solutions to its users.
+* Cloud services in Azure are designed to help its users build new and innovative cloud solutions that help solve our challenges in different areas.
+* It allows us to build, develop, manage, and run resources like servers, databases, storage, or applications in multiple cloud environments.
+* You can use it for different use-case scenarios in the cloud using the tools, programming languages, and frameworks that you prefer to use.
+* Azure also provides edge computing, AI, and Machine Learning (ML) services that enable you to create smart and intelligent solutions with your existing or new applications.
+
+# Benefits of a Cloud Provider
+
+1. High availability - Microsoft Azure provides high availability and redundancy across all of its worldwide data centers offering a service-level agreement that ensures 99.95% availability.
+2. Geo-distribution - Azure helps global enterprises by providing geo-distribution features. Geography-specific endpoints enable international enterprises to comply with regional compliance and regulations.
+3. Scalability On-demand - When the demand for complexity, traffic, and data expands, there should be a flexible and quick way to handle such needs.
+4. Reliability - The system or application hosted should function correctly even in the face of adversity (hardware or software faults, and even human error).
+5. Elasticity - A capability to automatically scale cloud resources based on configuration or demand.
+6. Disaster recovery - When your applications, data, and systems are hosted in Azure, you can be assured of secured end-to-end backup and disaster recovery solutions.
+7. Flexibility - Cloud services in Azure give organizations flexibility by allowing them to use consumption pricing plans and full self-service management accessible anywhere.
+8. Cost Management Tools - There are tools available for cost management in Azure and users can also set budget alerts for their resource groups and resources.
+9. Advanced Compliance - Azure takes information security and compliance seriously with high standards to best serve its users.
+10. High Level Cloud Security - Azure protects all stored data with world-class and advanced security. Data stored in Azure are protected with advanced encryption technologies. All data centers at Microsoft are equipped with extreme security with biometric scanners, multi-level authentication, and more.
+11. OpEx vs. CapEx - Hosting to the cloud means an organization can save money from Capital Expenditures (CapEx) and only pay for Operational Expenditures (OpEx).
+12. Consumption-based pricing model - Azure gives its users the flexibility of cost management by offering consumption-based (Pay-As-You-Go) pricing model in most of its cloud services.
+13. No deep technical skills required - You and your organization do not need to be very skilled technically to get started using the cloud platform. Azure provides flexible and diverse options to give ease of use to its users.
+14. 
+    
 
  
 
